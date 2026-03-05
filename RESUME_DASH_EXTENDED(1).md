@@ -104,7 +104,7 @@ Original formulation: **"Capability iS Vulnerability"** — a general security p
 
 i want to work on problems that matter. i want to build things that are secure by design rather than secure by hope. i want to be in rooms where people are thinking honestly about Ai risk — not performing compliance theater, but actually grappling with what it means to deploy systems whose core vulnerability is unfixable.
 
-i'm being paid as though i'm a junior in a mid-market city. i'm not. i'm a one-person security organization with a published research portfolio and a decade of community standing. i know what i'm worth, and i'm done pretending otherwise. Sorry Boss (and Boss's Boss... CEO), and HR if you're reading this. But oh well.
+i'm being paid as though i'm a junior in a mid-market city. i'm not. i'm a one-person security organization with a published research portfolio and a decade of community standing. i know what i'm worth, and i'm done pretending otherwise.
 
 i'm interested in: security architecture roles where i can build and harden real systems, Ai security research positions, red team and offensive security roles, consulting and advisory positions, paid speaking engagements on Ai security and impossibility results, and any environment where thinking across disciplinary boundaries is an asset rather than a curiosity. i work remotely — that's not a preference, it's how i do my best work. i'm AuDHD *to the max on BOTH fronts* this is a reasonable diasbility accommodation request just being made in advance. Take it or leave it. That's truly your call.
 
@@ -117,4 +117,4 @@ i come with warning labels. Because i believe in informed consent about what you
 *"We must know, we shall know."* — David Hilbert
 
 *And sometimes what we must know is what we cannot do, or share...* — Dash, @da5ch0, other names, --
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------🥷🏴‍☠️😏 sudo !! return to line 1
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- sudo !! return to line 1
