@@ -72,7 +72,7 @@ GitHub: [da5ch0/expressiveness-vulnerability-identity](https://github.com/da5ch0
 Original theoretical framework establishing that prompt injection is a necessary consequence of natural language processing, not an engineering failure. Three convergent proofs:
 
 1. **Undecidability**: Transformer Turing-completeness + Rice's theorem → prompt injection detection is undecidable in the general case
-2. **Adversarial bounds**: Robustness-accuracy tradeoff (Tsipras et al.) + high-dimensional adversarial inevitability (Shafahi, Fawzi) → any imperfect detector has exploitable blind spots. Attackers can always just keep trying harder, as anyone seeking help studying for OSCP has likely been told many hundreds of times already, lol.
+2. **Adversarial bounds**: Robustness-accuracy tradeoff (Tsipras et al.) + high-dimensional adversarial inevitability (Shafahi, Fawzi) → any imperfect detector has exploitable blind spots. Attackers can always just keep trying harder, as anyone seeking help studying for OSCP has likely been told many hundreds of times already.
 3. **The identity**: The seven properties that make language expressive (self-reference, ambiguity, context-dependence, compositionality, performativity, open-endedness, paralinguistic expression) are identical to the properties that make it an attack vector — substrate-independent, applying to any language processor of sufficient fidelity
 
 Policy implications: proposed CVE classification reform for prompt injection as a specification-level vulnerability; analysis of OWASP, NiST, and EU Ai Act frameworks; design principles for systems that manage rather than "solve" linguistic vulnerability.
@@ -89,7 +89,7 @@ Original formulation: **"Capability iS Vulnerability"** — a general security p
 
 ## Recognition & Community
 
-- **CVE-2016-7256** — Parallel independent discovery of a reintroduced Microsoft OpenType font parsing RCE affecting all supported Windows versions. Found it by noticing a familiar exploit pattern had quietly come back. Learned a lot about coordinated disclosure in the process. Pattern recognition and compulsive testing of controls pays off. Except i didn't get paid, lol.
+- **CVE-2016-7256** — Parallel independent discovery of a reintroduced Microsoft OpenType font parsing RCE affecting all supported Windows versions. Found it by noticing a familiar exploit pattern had quietly come back. Learned a lot about coordinated disclosure in the process. Pattern recognition and compulsive testing of controls pays off. Except i didn't get paid.
 - **DEF CON community** — Active participant since DC22 (2014). Over a decade of continuous presence, mentorship, and contribution
 - **8,000+ infosec community followers** across platforms — sustained contribution and thought leadership over 15 years. Friends with best of the best folks.
 - **Published Ai security researcher** — original impossibility results with policy implications
