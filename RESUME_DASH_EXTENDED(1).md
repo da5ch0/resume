@@ -105,7 +105,7 @@ i want to work on problems that matter. i want to build things that are secure b
 
 i'm being paid as though i'm a junior in a mid-market city. i'm not. i'm a one-person security organization with a published research portfolio and a decade of community standing. i know what i'm worth, and i'm done pretending otherwise.
 
-i'm interested in: security architecture roles where i can build and harden real systems, Ai security research positions, red team and offensive security roles, consulting and advisory positions, paid speaking engagements on Ai security and impossibility results, and any environment where thinking across disciplinary boundaries is an asset rather than a curiosity. i work remotely — that's not a preference, it's how i do my best work. i'm AuDHD *to the max on BOTH fronts* this is a reasonable diasbility accommodation request just being made in advance. Take it or leave it. That's truly your call.
+i'm interested in: security architecture roles where i can build and harden real systems, Ai security research positions, red team and offensive security roles, consulting and advisory positions, paid speaking engagements on Ai security and impossibility results, and any environment where thinking across disciplinary boundaries is an asset rather than a curiosity. i work remotely — that's not a preference, it's how i do my best work. i'm AuDHD *to the max on BOTH fronts* this is a reasonable disability accommodation request just being made in advance. Take it or leave it. That's truly your call.
 
 i bring the offensive mindset, the architectural thinking, the mathematical rigor, and the uncomfortable willingness to say "this can't be fixed — here's what we do instead."
 
