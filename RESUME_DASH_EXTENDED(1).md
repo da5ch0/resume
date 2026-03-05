@@ -72,8 +72,7 @@ GitHub: [da5ch0/expressiveness-vulnerability-identity](https://github.com/da5ch0
 Original theoretical framework establishing that prompt injection is a necessary consequence of natural language processing, not an engineering failure. Three convergent proofs:
 
 1. **Undecidability**: Transformer Turing-completeness + Rice's theorem → prompt injection detection is undecidable in the general case
-2. **Adversarial bounds**: Robustness-accuracy tradeoff (Tsipras et al.) + high-dimensional adversarial inevitability (Shafahi, Fawzi) → any imperfect detector has exploitable blind spots. Attackers can always just keep trying harder, "try harder", derp!, and all the OSCP shit you always hear, but do actually: RTFM, iMHO... #!
---side note, but after you RTFM, and then re-RTFM, make sure you then also have your Ai assistant-of-choice summarize it back to you and see if you can see what it got wrong!!!!!1! oh, and sudo !! #!';)--
+2. **Adversarial bounds**: Robustness-accuracy tradeoff (Tsipras et al.) + high-dimensional adversarial inevitability (Shafahi, Fawzi) → any imperfect detector has exploitable blind spots. Attackers can always just keep trying harder, as anyone seeking help studying for OSCP has likely been told many hundreds of times already, lol.
 3. **The identity**: The seven properties that make language expressive (self-reference, ambiguity, context-dependence, compositionality, performativity, open-endedness, paralinguistic expression) are identical to the properties that make it an attack vector — substrate-independent, applying to any language processor of sufficient fidelity
 
 Policy implications: proposed CVE classification reform for prompt injection as a specification-level vulnerability; analysis of OWASP, NiST, and EU Ai Act frameworks; design principles for systems that manage rather than "solve" linguistic vulnerability.
